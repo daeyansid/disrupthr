@@ -1,0 +1,46 @@
+.navafter {
+    position: absolute;
+    top: -12px;
+    left: -10px;
+    width: 100%;
+    height: 102px;
+    background: linear-gradient(#FFFFFF00, #E7EFFA);
+  }
+  .ulmenu-main{
+    display: flex;
+    justify-content: space-between;
+}
+.li-1{
+    list-style: none;
+    color: #02033B;
+    font-size: 23px;
+    font-family: Inter;
+    font-weight: 800;
+    line-height: 25px;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+li > a:hover{
+    color: #FFDC06;
+    transition:ease-in-out;
+}
+.sign-in{
+    color: #ffffff;
+font-size: 15px;
+font-family: Inter;
+font-weight: 800;
+line-height: 25px;
+word-wrap: break-word;
+background-color: #FFDC06;
+border-radius: 25px;
+border: none;
+outline: none;
+margin-bottom: 20px;
+padding: 10px;
+width: 90px;
+text-decoration: none;
+text-align: center;
+}

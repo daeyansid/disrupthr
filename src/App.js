@@ -1,24 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from '../src/Components/Navbar/Navbar.jsx';
+import Intro from './Components/Intro/Intro.jsx';
+import SectionA from './Components/Section A/SectionA.jsx';
+import SectionB from './Components/SectionB/SectionB.jsx';
+import GetIn from './Components/Get in Touch/GetIn.jsx';
+import Help from './Components/Help/Help.jsx';
+import Banner from './Components/Banner/Banner.jsx';
+import Card from './Components/Cards/Card.jsx';
+import Footer from './Components/Footer/Footer.jsx';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <>
+    <Navbar />
+    <Intro />
+    <SectionA />
+    <SectionB />
+    <GetIn />
+    <Help />
+    <Banner />
+    <Card />
+    <Footer />
+   </>
   );
 }
 

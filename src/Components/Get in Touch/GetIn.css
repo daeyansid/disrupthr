@@ -1,0 +1,105 @@
+.mainprimary-3 {
+    position: absolute;
+    width: 100%;
+    top: 2305px !important;
+    left: -41px;
+    flex-direction: column;
+    font-size: var(--font-size-17xl);
+  }
+  .section2 {
+    background: linear-gradient(180deg, #f3f8ff, #e7effa);
+    width: 1442px;
+    height: 857px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-65xl) 300px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 54px;
+    color: var(--black);
+    font-family: var(--font-montserrat);
+  }
+  .text-field-child {
+    position: relative;
+    width: 6px;
+    height: 12px;
+    display: none;
+  }
+  .text-field {
+    border: 1px solid var(--gray-5);
+    box-sizing: border-box;
+    background-color: white;
+    width: 545px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-xl);
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+    border: none;
+    outline: none;
+  }
+  .dropdown-child {
+    position: relative;
+    width: 12px;
+    height: 6px;
+  }
+  .dropdown {
+    border: 1px solid var(--gray-5);
+    box-sizing: border-box;
+    background-color: white;
+    width: 545px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-xl);
+    align-items: center;
+    justify-content: space-between;
+    color: var(--black);
+  }
+  .send {
+    position: relative;
+    text-transform: uppercase;
+  }
+  .button {
+    background-color: var(--color-gold);
+    width: 545px;
+    height: 50px;
+    display: flex;
+    border: none;
+    outline: none;
+    flex-direction: row;
+    padding: var(--padding-xs) var(--padding-5xl);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--font-size-base);
+  }
+  .select-1{
+    width: 169px;
+    height: 42px;
+    border: none;
+    outline: none;
+  }
+  option{
+    border: none;
+    outline: none;
+  }
+  .link-1{
+    text-decoration: none;
+    color: var(--white);
+  }
+  .qrcode{
+    margin-left: 190px;
+    margin-top: 30px;
+  }
+  .div10 {
+    position: relative;
+    width: 400px;
+    height: 46px;
+  }
+  .p{
+    color: var(--color-midnightblue-100);
+  }

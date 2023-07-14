@@ -1,0 +1,123 @@
+.intro{
+    width: 100%;
+    height: 708px;
+    background-color: #F3F8FF;
+}
+.intro-1{
+    color: #02033B;
+    font-Size: 67px;
+    font-family: Inter;
+    font-weight: 800;
+    line-height: 75px;
+    word-wrap: break-word;
+    margin-left: -37px;
+    width: 100%;
+}   
+.intro-2{
+    width: 100%;
+    height: 100%;
+    margin-top: 70px;
+}
+.intro-span-1{
+    color: #02033B;
+     font-Size: 24px;
+    font-Family: Inter;
+     font-Weight: 700;
+     line-Height: 30px; 
+     word-Wrap: break-word;
+}
+.div4 {
+    top: calc(50% + 68.75px);
+    left: -13px;
+    width: 603.5px;
+    height: 190.5px;
+    overflow: hidden;
+    font-size: 22px;
+  }
+  .div4,
+  .div5 {
+    position: absolute;
+  }
+  .div5 {
+    top: 96px;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0 var(--padding-29xl) var(--padding-5xl) 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-29xl);
+  }
+  .spanafter-icon {
+    position: absolute;
+    margin: 0 !important;
+    top: -6.25px;
+    left: 168.66px;
+    width: 60.34px;
+    height: 38px;
+    z-index: 1;
+  }
+  .bg-circlesvg-icon {
+    position: absolute;
+    width: calc(100% + 2160px);
+    top: calc(50% - 854px);
+    right: -2160px;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    height: 1770px;
+  }
+  .a {
+    border-radius: var(--br-23xl);
+    background-color: var(--color-gold);
+    width: 229px;
+    overflow: hidden;
+    flex-shrink: 0;
+    padding: var(--padding-base) 49px var(--padding-base-5) var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+
+.intro-3{
+     width: 100%;
+      height: 100%;
+       position: relative;
+}
+.buy-a-ticket{
+    color: #02033B;
+font-size: 22px;
+font-family: Inter;
+font-weight: 800;
+line-height: 22.50px;
+word-wrap: break-word;
+}
+.div1,
+.header {
+  position: absolute;
+}
+.div1 {
+  top: 123.38px;
+  left: 177px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 196px 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header {
+  top: 90px;
+  left: -40px;
+  background-color: var(--color-aliceblue);
+  width: 1440px;
+  height: 708px;
+  overflow: hidden;
+}
+.become-a-sponser {
+  position: relative;
+  line-height: 22.5px;
+  font-weight: 800;
+  font-family: INTER;
+  text-decoration: none;
+  color: #02033B;
+font-size: 19px;
+}

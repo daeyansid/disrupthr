@@ -1,0 +1,45 @@
+.mainprimary {
+    position: absolute;
+    top: 798px;
+    left: -41px;
+    flex-direction: column;
+    font-size: var(--font-size-17xl);
+  }
+  .section {
+    position: relative;
+    background: linear-gradient(180deg, #f3f8ff, #e9f1fa);
+    width: 1440px;
+    height: 802.98px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .layer-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 460px;
+    width: 264px;
+    height: 95px;
+    overflow: hidden;
+  }
+  .h2 {
+    display: flex;
+    position: absolute;
+    top: 68px;
+    left: 225px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    padding: 0 45.58123779296875px var(--padding-12xs) 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: 177px;
+  }
+  .featured-in {
+    position: absolute;
+    top: calc(50% - 16px);
+    left: 0;
+    letter-spacing: -0.48px;
+    line-height: 30px;
+    font-weight: 800;
+  }
+  

@@ -1,0 +1,124 @@
+.mainprimary-2 {
+  position: absolute;
+  top: 1605px !important;
+  left: -41px;
+  flex-direction: column;
+  font-size: var(--font-size-17xl);
+}
+.section1 {
+    background-color: var(--white);
+    width: 1440px;
+    height: 802.98px;
+    /* padding: var(--padding-65xl) 132px; */
+    align-items: flex-start;
+  }
+  .div7,
+  .section1 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    justify-content: flex-start;
+  }
+  .div7 {
+    width: 1310px;
+    height: 3775px;
+    padding: 0 60px 0 0;
+    align-items: center;
+    gap: var(--gap-41xl);
+  }
+  .div8,
+  .image-9-icon {
+    position: relative;
+    width: 683px;
+    height: 351px;
+  }
+  .disrupthr-is-your-container,
+  .what-is-disrupthr {
+    position: absolute;
+    display: flex;
+    align-items: center;
+  }
+  .what-is-disrupthr {
+    top: -70.48px;
+    left: 5px;
+    letter-spacing: -0.72px;
+    line-height: 45px;
+    font-weight: 800;
+    width: 573px;
+    height: 113px;
+  }
+  .disrupthr-is-your-container {
+    top: 252.52px;
+    left: 0;
+    font-size: 11px;
+    line-height: 30px;
+    width: 700px;
+    height: 45px;
+  }
+  .july-302023-disrupthr-sindh {
+    margin: 0;
+  }
+  .july-302023-container1 {
+    line-break: anywhere;
+    width: 91%;
+  }
+  .july-302023-container {
+    position: absolute;
+    top: -9.75px;
+    left: 0;
+    line-height: 30px;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    width: 598px;
+    height: 129px;
+  }
+  .view-past-talk {
+    position: relative;
+    line-height: 9.5px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    width: 209px;
+    flex-shrink: 0;
+    z-index: 0;
+    text-decoration: none;
+    color: #02033B;
+  }
+  .spanafter-icon1 {
+    position: absolute;
+    margin: 0 !important;
+    top: -3.25px;
+    left: 186.66px;
+    width: 20px;
+    height: 14px;
+    z-index: 1;
+  }
+  .div9 {
+    position: absolute;
+    top: 531.52px;
+    left: 183px;
+    width: 280px;
+    height: 69px;
+    flex-direction: column;
+    padding: 0 223.34375px var(--padding-5xl) 0;
+    box-sizing: border-box;
+    font-size: var(--font-size-lgi);
+  }
+  .a2,
+  .div9 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .div8,
+  .image-9-icon {
+    position: relative;
+    width: 683px;
+    height: 351px;
+  }
+  .image-9-icon {
+    width: 480px;
+    height: 601px;
+    object-fit: cover;
+  }

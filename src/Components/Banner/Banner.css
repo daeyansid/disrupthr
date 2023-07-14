@@ -1,0 +1,58 @@
+.mainprimary-5 {
+    position: absolute;
+    /* width: 100%; */
+    top: 3600px !important;
+    left: -41px;
+    flex-direction: column;
+    font-size: var(--font-size-17xl);
+  }
+  .section4 {
+    background: linear-gradient(180deg, #ffdc06, #f8c456);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-65xl) 345px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: center;
+    font-size: 34px;
+    color: var(--white);
+  }
+  .div19 {
+    position: relative;
+    width: 750px;
+    height: 239.5px;
+  }
+  .div20,
+  .spanafter-icon3 {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    width: 720px;
+    height: 125px;
+  }
+  .spanafter-icon3 {
+    margin: 0 !important;
+    top: 4.25px;
+    left: 194.66px;
+    width: 20px;
+    height: 14px;
+    z-index: 1;
+  }
+  .image10{
+    margin-left: 90%;
+  }
+  .become-a-sponsor{
+    text-decoration: none;
+    color: #02033B;
+font-size: 21px;
+font-family: Inter;
+font-weight: 900;
+line-height: 22.50px;
+  }
+  .buy-a-ticket {
+    position: relative;
+    line-height: 22.5px;
+    font-weight: 900;
+    z-index: 0;
+    text-decoration: none;
+  }
